@@ -6,3 +6,10 @@ Category	Products
 1	Debt collection
 2	Consumer Loan
 3	Mortgage
+
+git lfs install
+git lfs track "*.csv"
+git add .
+git commit -m "Cleaned notebook and tracked large files with LFS"
+git push -u origin main
+
