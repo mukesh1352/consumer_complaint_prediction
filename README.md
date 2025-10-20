@@ -126,4 +126,3 @@ git push -u origin main
 ```
 ![output image](output/output.png)
 ![category distribution](output/category_distribution.png)
-![best model](output/best_model.png)
