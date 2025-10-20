@@ -124,3 +124,6 @@ git commit -m "Cleaned notebook and tracked large files with LFS"
 # Push to remote repository
 git push -u origin main
 ```
+![output image](output/output.png)
+![category distribution](output/category_distribution.png)
+![best model](output/best_model.png)
