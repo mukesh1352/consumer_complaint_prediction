@@ -1,19 +1,16 @@
 # Consumer Complaints Classification Project
 
-A project to classify consumer complaints into predefined categories using machine learning. The workflow includes data downloading, preprocessing, vectorization, handling class imbalance, model training, and evaluation.
+A brief description of your project goes here.
 
 ---
 
 ## Table of Contents
 
-- [Environment Setup](#environment-setup)  
-- [Dependencies](#dependencies)  
-- [Data Source](#data-source)  
-- [Data Preprocessing](#data-preprocessing)  
-- [Handling Class Imbalance](#handling-class-imbalance)  
-- [Model Training & Evaluation](#model-training--evaluation)  
-- [Git LFS Setup](#git-lfs-setup)  
-- [Usage](#usage)  
+- [Environment Setup](#environment-setup)
+- [Dependencies](#dependencies)
+- [Data Categories](#data-categories)
+- [Git LFS Setup](#git-lfs-setup)
+- [Usage](#usage)
 
 ---
 
@@ -127,20 +124,3 @@ git commit -m "Cleaned notebook and tracked large files with LFS"
 # Push to remote repository
 git push -u origin main
 ```
-
----
-
-## Usage
-
-1. Clone the repository:
-
-```bash
-git clone <repo-url>
-cd <repo-directory>
-```
-
-2. Activate the virtual environment and install dependencies.
-3. Run preprocessing and model training notebooks.
-4. Evaluate results and explore predictions.
-
-
